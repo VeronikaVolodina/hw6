@@ -1,8 +1,8 @@
 # hw6
 # Google Ngram Viewer
-## 1 задание: https://github.com/VeronikaVolodina/hw6/blob/master/Безымянный.png
-## 2 задание: https://github.com/VeronikaVolodina/hw6/blob/master/Безымянный2.png
-## 3 задание: https://github.com/VeronikaVolodina/hw6/blob/master/Безымянный3.png 
+## 1 задание: ![](https://github.com/VeronikaVolodina/hw6/blob/master/Безымянный.png)
+## 2 задание: ![](https://github.com/VeronikaVolodina/hw6/blob/master/Безымянный2.png)
+## 3 задание: ![](https://github.com/VeronikaVolodina/hw6/blob/master/Безымянный3.png) 
 *Рассмотрев график,  мы можем заметить, что "хрустящий картофель"(chips and crisps) популярен в обеих странах в форме "chips", несмотря на тот факт, что "chips" относится к US а "crisps" к GB. Удивительно, но слово "crisps" начало набирать свою популярность в Британии лишь с 1960. Из всего вышесказанного следует вывод о том, что использование американских слов куда выше, ведь слова данной страны даже в Великобритании набирают свою популярность и используются намного чаще, чем коренные слова данного языка. Но, все же, именно в Америке такое слово, как "chips" наиболее популярно.*
 # Sketch Engine
 ## 1 задание:
